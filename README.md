@@ -1,4 +1,4 @@
-# arcgis3d
+# threejs
 
 ## Project setup
 ```
